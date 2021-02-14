@@ -1,0 +1,12 @@
+python main2.py --username sinnoukunn@gmail.com --password Wangchen0507. --url https://www.nike.com/jp/launch/t/air-jordan-14-clot-terracotta --shoe-size 9 --driver-type
+ chrome
+
+
+sinnoukunn@gmail.com Wangchen0507. https://www.nike.com/jp/launch/t/air-jordan-14-clot-terracotta 9 chrome
+
+--username sinnoukunn@gmail.com --password Wangchen0507. --url https://www.nike.com/jp/launch/t/air-jordan-14-clot-terracotta --shoe-size 9 --driver-type chrome
+https://www.nike.com/jp/launch/t/air-force-1-1-custom-uptown
+
+//button[text()[contains(.,'M 9')]]
+
+
